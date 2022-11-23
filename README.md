@@ -17,6 +17,6 @@ In addition to the refactoring, the following is required:
 
 <br/>
 You are welcome to use comments in the code to outline any assumptions you might make and/or outline your thinking at various points.
-Once completed please push the completed solution to your own repo and send us the link or send.
+Once completed please push the completed solution to your own repo and send us the link or send as a zip file.
 <br/><br/>
 We look forward to seeing your submission and have fun!
